@@ -1,0 +1,6 @@
+.venv/
+.databricks/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
